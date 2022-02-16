@@ -1,3 +1,11 @@
+% Files need to be completed for this exercise
+
+% *lrCostFunction.m - Logistic regression cost function
+% *oneVsAll.m - Train a one-vs-all multi-class classifier
+% *predictOneVsAll.m - Predict using a one-vs-all multi-class classifier
+% *predict.m - Neural network prediction function
+
+
 ### lrCostFunction.m
 
 function [J, grad] = lrCostFunction(theta, X, y, lambda)
